@@ -28,15 +28,18 @@ cd HYRULE-CASTLE
 
 Installez les dépendances :
   npm install
+  
 🚀 Lancement
 
 1. Lancer le projet
   npm start
+
 🛠️ Fonctionnalités
 Gestion des salles et des interactions via des classes spécifiques (Room, Character).
 Modifications dynamiques de gameplay grâce aux mods (easy, intermediate, hard).
 Utilisation d'ESLint pour un code propre et maintenable.
 Évolutivité facilitée grâce à une architecture modulaire.
+
 🌟 Ressources Utilisées
 TypeScript
 Node.js
