@@ -6,13 +6,7 @@ Un jeu textuel basé sur l'univers de **The Legend of Zelda**, développé en **
 - Exploration du château et de ses environnements mystérieux.
 - Système de combat contre des ennemis dynamiques.
 - Gestion des personnages et de leurs statistiques.
-
-## 🛠️ Structure du projet
-Voici les principaux fichiers et scripts du projet :
-- **launcher.sh** : Le script principal pour lancer le jeu.
-- **modifier.sh** : Envoie les nouvelles données dans le jeu.
-- **build.sh** : Création de conteneur pour chaque instruction du Dockerfile.
-- **Dockerfile** : Fichier de configuration pour exécuter le jeu dans un conteneur Docker.
+- Utilisation d'ESLint pour un code propre et maintenable.
 
 ## ⚙️ Installation
 
